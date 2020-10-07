@@ -8,7 +8,7 @@
 - start the app 'node index.js'
 
 ## Documentation
-The documentation for the YulSIP Communications web site is hosted at our [website](https://yulsip.com).
+The documentation for this app hosted at our [website](https://yulsip.com).
 
 
 ## File Structure
