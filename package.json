@@ -1,0 +1,32 @@
+{
+  "name": "alarissmssendersmpp",
+  "version": "1.0.0",
+  "description": "Alaris SMS sender SMPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzakharov90/AlarisSMSSender_SMPP.git"
+  },
+  "author": "dzakharov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzakharov90/AlarisSMSSender_SMPP/issues"
+  },
+  "homepage": "https://github.com/dzakharov90/AlarisSMSSender_SMPP#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gsm": "^0.1.4",
+    "helmet": "^4.1.1",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.1.12",
+    "path": "^0.12.7",
+    "session": "^0.1.0",
+    "smpp": "^0.4.0",
+    "system-sleep": "^1.3.7"
+  }
+}
